@@ -1,3 +1,10 @@
-zdokonalit RedisLesser
-vytvorit web pro rdcli
-napsat zakladni kod rdcli
+[ ] zdokonalit RedisLesser
+[ ] vytvorit web pro rdcli
+[*] napsat zakladni kod rdcli
+[ ] pridat napovedu pro ruzne prikazy
+[ ] pridat help
+[ ] pridat click
+[ ] zachytavat errory
+[*] pridat historii
+[ ] pridat connection do redisu 
+[ ] 
