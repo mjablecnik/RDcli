@@ -28,9 +28,9 @@ Inspirated by: [mycli](http://mycli.net) and [pgcli](http://pgcli.net)
 
 # Special thanks:
 
- - `[Pygments](http://pygments.org/)`: Syntax highlighter.
- -  [redis-py](https://github.com/andymccurdy/redis-py) : Python Redis client.
- - `[Python Prompt Toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)`: Library for building interactive command line interface.
+ - [Pygments](http://pygments.org/): Syntax highlighter.
+ - [redis-py](https://github.com/andymccurdy/redis-py) : Python Redis client.
+ - [Python Prompt Toolkit](https://github.com/jonathanslenders/python-prompt-toolkit): Library for building interactive command line interface.
 
 
 
