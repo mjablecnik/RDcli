@@ -51,6 +51,13 @@ def main():
                 for message in messages:
                     print message
 
+            elif command("KEYS"):
+                for message in messages:
+                    print message
+
+                print ""
+                print "Number of keys: " + str(len(messages))
+
             elif command("QUIT"):
                 break
 
