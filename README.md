@@ -10,20 +10,27 @@ Inspirated by: [mycli](http://mycli.net) and [pgcli](http://pgcli.net)
 # Local setup:
 
   Fork project from github and clone it:
+  
+  ```
   git clone <git-repository>
+  ```
+
   
   go to repository:
+  ```
   cd rdcli
+  ```
   
   create virtualenv:
-  mkdir rdcli-dev
-  virtualenv rdcli-dev
-  source ./rdcli-dev/bin/activate
-  
-  pip install -r requirements.txt
-  
-  python src/main.py
+```
+mkdir rdcli-dev
+virtualenv rdcli-dev
+source ./rdcli-dev/bin/activate
 
+pip install -r requirements.txt
+
+python src/main.py
+```
 
 
 # Special thanks:
