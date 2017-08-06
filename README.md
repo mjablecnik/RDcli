@@ -7,7 +7,7 @@ Inspirated by: [mycli](http://mycli.net) and [pgcli](http://pgcli.net)
 
 
 
-# Local setup:
+## Local setup:
 
   Fork project from github and clone it:
   
@@ -33,7 +33,7 @@ python src/main.py
 ```
 
 
-# Special thanks:
+## Special thanks:
 
  - [Pygments](http://pygments.org/): Syntax highlighter.
  - [redis-py](https://github.com/andymccurdy/redis-py) : Python Redis client.
@@ -41,6 +41,5 @@ python src/main.py
 
 
 
-# Authors:
-
+## Authors:
  - Martin Jablečník
