@@ -1,4 +1,4 @@
-# rdcli
+# RDcli
 
 Redis command line interface with auto-completion and syntax highlighting.
 
